@@ -1,0 +1,19 @@
+{
+  "alfabeto": ["0", "1"],
+  "estadoInicial": "q1",
+  "estadoDeAceitacao": ["q2"],
+  "transicoes": {
+    "q1": {
+      "0": "q1",
+      "1": "q2"
+    },
+    "q2": {
+      "0": "q3",
+      "1": "q2"
+    },
+    "q3": {
+      "0": "q2",
+      "1": "q2"
+    }
+  }
+}

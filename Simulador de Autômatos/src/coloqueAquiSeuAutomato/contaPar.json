@@ -1,0 +1,13 @@
+{
+  "alfabeto": ["1"],
+  "estadoInicial": "q0",
+  "estadoDeAceitacao": ["q0"],
+  "transicoes": {
+    "q0": {
+      "1": "q1"
+    },
+    "q1": {
+      "1": "q0"
+    }
+  }
+}
