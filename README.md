@@ -1,0 +1,2 @@
+# simuladorDeAutomatos
+Simulador de Autômatos
